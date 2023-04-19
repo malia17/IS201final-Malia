@@ -1,0 +1,39 @@
+ul {
+    font-size: 15px;
+}
+
+h6 {
+    font-weight: 100;
+    font-variant: small-caps;
+}
+
+.head {
+    font-size: large;
+    font-family: fantasy;
+    color: rgb(236, 186, 106);
+}
+
+img {
+    display: -moz-stack;
+    margin-left:6%;
+    width: 25%;
+}
+
+h3 {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.all {
+    background-color: rgb(210, 148, 156);
+}
+
+nav {
+    padding: 5px;
+}
+
+.footer {
+    font-size: larger;
+    color: rgb(114, 100, 73);
+}
